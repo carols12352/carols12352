@@ -10,7 +10,7 @@
 🎓 **University of Waterloo, Class of 2030**
 
 - 🧑‍💻 **Alias**: 123oysc52  
-- 🌏 **Location**: Canada
+- 🌏 **Location**: China, Canada
 - 📊 **Public Repos**: 8  
 - 💼 **Open to opportunities**: Yes!
 
