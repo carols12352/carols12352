@@ -10,12 +10,12 @@ Bachelor of Software Engineering at University of Waterloo, Class of 2030
 - 📊 **Public repos：** 8
 - 💼 **Looking for jobs?：** Yes
 
-## 📈 GitHub 数据
+## 📈 GitHub stats(basical nothing)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carols12352&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carols12352&layout=compact)
 
-## 🔗 联系方式
+## 🔗 Contact me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/carols12352)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sicheng-ouyang-82306b321)
