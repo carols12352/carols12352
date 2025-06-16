@@ -8,6 +8,8 @@
 </p>
 
 ## 📝 About Me     
+Hi! I'm 123oysc52, incoming student @uwaterloo studying software engineering,
+I'm a passionate and curious developer seeking for opportunities!
 
 🎓 **Bachelor of Software Engineering**  
 🎓 **University of Waterloo, Class of 2030**
