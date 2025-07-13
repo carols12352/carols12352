@@ -9,7 +9,7 @@
 
 ## 📝 About Me  
 
-🎓 **Bachelor of Software Engineering**  
+🎓 **Bachelor of Software Engineering**   
 🎓 **University of Waterloo, Class of 2030**
 
 - 🧑‍💻 **Alias**: 123oysc52  
