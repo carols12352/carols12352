@@ -14,7 +14,7 @@
 
 - 🧑‍💻 **Alias**: 123oysc52  
 - 🌏 **Location**: China, Canada
-- 📊 **Public Repos**: 8  
+- 📊 **Public Repos**: 8 
 - 💼 **Open to opportunities**: Yes
 
 ## 📈 GitHub Stats
