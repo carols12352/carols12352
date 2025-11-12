@@ -3,7 +3,7 @@
 <p align="center">
   <bold>Since June 5, 2025:</bold>
 </p>
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=carols12352&style=for-the-badge&color=0e75b6"/>
 </p>
 
