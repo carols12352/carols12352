@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carols12352&layout=compact&theme=default" height="150"/>
 </div>
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carols12352/carols12352/output/github-contribution-grid-snake-dark.svg">
