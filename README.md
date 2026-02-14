@@ -20,8 +20,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carols12352&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carols12352&layout=compact&theme=default" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=carols12352&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=carols12352&layout=compact&theme=default" height="150"/>
 </div>
 
 ## 🐍 GitHub Contribution Snake 
