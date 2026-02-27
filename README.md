@@ -12,9 +12,8 @@
 🎓 **Bachelor of Software Engineering**   
 🎓 **University of Waterloo, Class of 2030**
 
-- 🧑‍💻 **Alias**: 123oysc52  
+- 🧑‍💻 **Alias**: Ouyang
 - 🌏 **Location**: China, Canada
-- 📊 **Public Repos**: 12 
 - 💼 **Open to opportunities**: Yes
 
 ## 📈 GitHub Stats
