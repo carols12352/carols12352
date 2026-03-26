@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm 123oysc52 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hi, I'm Sicheng Ouyang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
   <bold>Since June 5, 2025:</bold>  
@@ -13,7 +13,7 @@
 🎓 **University of Waterloo, Class of 2030**
 
 - 🧑‍💻 **Alias**: Ouyang
-- 🌏 **Location**: China, Canada
+- 🌏 **Location**: Canada, China
 - 💼 **Open to opportunities**: Yes
 
 ## 📈 GitHub Stats
