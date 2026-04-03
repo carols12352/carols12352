@@ -6,7 +6,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=carols12352&style=for-the-badge&color=0e75b6"/>   
 </p>
-
+ 
 ## 📝 About Me  
 
 🎓 **Bachelor of Software Engineering**   
