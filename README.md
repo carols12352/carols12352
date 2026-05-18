@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sicheng Ouyang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-
+ 
 <p align="center">
   <bold>Since June 5, 2025:</bold>  
 </p>
