@@ -43,4 +43,7 @@
   <a href="mailto:sicheng.ouyang@uwaterloo.ca" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://sicheng.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </p>
