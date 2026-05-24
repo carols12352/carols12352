@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sicheng Ouyang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
-  <bold>Since June 5, 2025:</bold>  
+  <b>Since June 5, 2025:</b>
 </p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=carols12352&style=for-the-badge&color=0e75b6"/>   
