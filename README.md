@@ -14,6 +14,8 @@
 
 I'm interested in building high-performance software and AI systems that combine strong engineering foundations with intelligent behavior.
 
+I enjoy designing systems that are scalable, efficient, reliable and deeply intuitive to use.
+
 Currently exploring:
 
 - 🧠 Machine learning algorithms and reasoning systems
@@ -21,13 +23,6 @@ Currently exploring:
 - 🏗 Scalable full-stack and distributed system design
 - 🚀 High-performance SWE and MLE solutions
 - 🔧 Developer infrastructure, abstractions, and optimization
-
-
-I enjoy designing systems that are:
-- scalable
-- efficient
-- reliable
-- deeply intuitive to use.
 
 ## 📈 GitHub Stats
 
