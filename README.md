@@ -12,9 +12,22 @@
 🎓 **Bachelor of Software Engineering**   
 🎓 **University of Waterloo, Class of 2030**
 
-- 🧑‍💻 **Alias**: Ouyang
-- 🌏 **Location**: Canada, China
-- 💼 **Open to opportunities**: Yes
+I'm interested in building high-performance software and AI systems that combine strong engineering foundations with intelligent behavior.
+
+Currently exploring:
+
+- 🧠 Machine learning algorithms and reasoning systems
+- ⚡ AI-integrated architectures and intelligent product workflows
+- 🏗 Scalable full-stack and distributed system design
+- 🚀 High-performance SWE and MLE solutions
+- 🔧 Developer infrastructure, abstractions, and optimization
+
+
+I enjoy designing systems that are:
+- scalable
+- efficient
+- reliable
+- deeply intuitive to use.
 
 ## 📈 GitHub Stats
 
