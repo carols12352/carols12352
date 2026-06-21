@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=carols12352&style=for-the-badge&color=0e75b6"/>   
 </p>
 
-## 📝 About Me   
+## 📝 About Me  
      
 🎓 **Bachelor of Software Engineering**   
 🎓 **University of Waterloo, Class of 2030**
