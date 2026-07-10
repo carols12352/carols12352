@@ -11,7 +11,7 @@
   
 🎓 **Bachelor of Software Engineering**   
 🎓 **University of Waterloo, Class of 2030**
- 
+
 I'm interested in building high-performance software and AI systems that combine strong engineering foundations with intelligent behavior.
 
 I enjoy designing systems that are scalable, efficient, reliable and deeply intuitive to use.
